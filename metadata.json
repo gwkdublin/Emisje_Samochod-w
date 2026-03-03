@@ -1,0 +1,5 @@
+{
+  "name": "LCA Calc - Kalkulator Emisyjności Pojazdów",
+  "description": "Zaawansowany kalkulator Life Cycle Assessment (LCA) dla pojazdów elektrycznych, spalinowych i hybrydowych z interaktywnymi wykresami.",
+  "requestFramePermissions": []
+}
